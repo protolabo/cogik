@@ -25,6 +25,8 @@ title: Vue d'ensemble du projet
 
 ### Contexte
 
+Ce projet s'inscrit...
+
 <!-- > Présentez le contexte général dans lequel s’inscrit votre projet (social, organisationnel, technologique, éducatif, environnemental, etc.). -->
 
 

@@ -47,3 +47,38 @@ title: Suivi du projet
 !!! warning "Difficultés"
     - Limitations de la gestion du cache sur Firefox
 
+## Semaine 6 (16–22 janvier)
+
+### Objectifs de la période
+
+- Implémenter la base de l'application
+- Faire le 1er diagramme de classe
+
+### Travail réalisé
+
+-Documentation importante effectuée sur React/ReactNative. Je suis pas mal familier avec la base maintenant
+
+-Page d'acceuil + 1re leçon entièrement implémentés (les structures de base disons).
+
+->Pour la page d'acceuil, il manque juste les flèches de navigation et la carte
+->Il manque aussi le diagramme de classe.
+
+Je ferai flèches + carte + diagramme de classe + présentation pour l'oral de vendredi, dès demain (donc ce jeudi !)
+
+Très grande progression effectuée lors de cette semaine !
+
+### Décisions et ajustements
+
+<!-- > À compléter uniquement si des choix structurants ont été faits
+> ou si l’orientation du projet a évolué. -->
+
+!!! info "Décisions"
+    - Simplifier les leçons. Par exemple, la pomme est représentée par une simple boîte rouge pour l'instant. C'était juste pour aller plus vite
+
+### Difficultés rencontrées
+
+<!-- > À compléter uniquement si des obstacles ont eu un impact réel
+> sur l’avancement du projet. -->
+
+!!! warning "Difficultés"
+    L'animation est très dure à gérer. Aussi, cela semble ralentir l'application ..
